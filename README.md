@@ -4,6 +4,9 @@ A touch-and-drag horizontal shoot-'em-up for the Nintendo DS — R-Type / Life F
 
 **Download the ROM:** [star-drag-v19.nds](https://github.com/retroromrunner/star-drag/releases/tag/v1.0) (also on [itch.io](https://retroromrunner.itch.io/star-drag))
 
+<img src="docs/star-drag-gameplay.gif" alt="Star Drag gameplay — the ship fires its laser through the first area" width="256">
+
+
 ## How to play
 
 **Best on NooDS** (including NooDS on iOS) — the game runs there exactly as designed.
@@ -33,6 +36,13 @@ Auto-fire is always on.
 - **Enemies:** 40 types across 7 areas — OPEN SPACE, SPACE BASE, PLANET, CAVE, CRYSTAL, WATER, GOO — each with its own ceiling/floor palette, terrain obstacles, movement pattern and pixelated explosion. Waves escalate with kills: faster spawns, faster enemies, more types.
 - **Bosses:** every 3rd wave. Boss 1 reverses the scroll, boss 2 halts the world, boss 3 flies the world upward, boss 4 shields and charges. No other enemies appear during a boss fight — you fight the boss alone. Each boss has its own 64×64 sprite and multi-explosion death sequence.
 - **Sound:** one unique music track per area (7 tracks, embedded in the ROM), tempo lifting 25% during boss fights, plus synthesized shoot / explosion / alarm / pickup SFX.
+
+## Screenshots
+
+| | |
+| --- | --- |
+| <img src="docs/screenshot-title.png" alt="Star Drag title screen" width="256"> | <img src="docs/screenshot-gameplay.png" alt="Combat in the first area" width="256"> |
+| <img src="docs/screenshot-laser.png" alt="Laser beam and a 1UP capsule" width="256"> | <img src="docs/screenshot-firing.png" alt="Firing through enemy waves" width="256"> |
 
 ## Build
 
